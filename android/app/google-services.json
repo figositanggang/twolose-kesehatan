@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "602234046040",
+    "project_id": "twolose-qimack",
+    "storage_bucket": "twolose-qimack.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602234046040:android:494d78f2b41151c5342c2d",
+        "android_client_info": {
+          "package_name": "com.example.twolose_kesehatan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602234046040-hap4p5s8he7eamjrrudvk2g9i7h9b50p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.twolose_kesehatan",
+            "certificate_hash": "cd6c48c7a8d844bc2e7ebf4d76b064a133df241f"
+          }
+        },
+        {
+          "client_id": "602234046040-k6h3it6d5leghuf8qjaj07t4gto6vu8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh_EOYCbZP5XzO-pxdIGpe7ytfcrAs7ps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602234046040-k6h3it6d5leghuf8qjaj07t4gto6vu8p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
