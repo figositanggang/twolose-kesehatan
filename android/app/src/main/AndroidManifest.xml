@@ -1,5 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.twolose_kesehatan">
+    <uses-permission android:name="android.permission.INTERNET" />
    <application
         android:label="twolose_kesehatan"
         android:name="${applicationName}"
